@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working and updating my Online Portfolio.<br>👯 I’m looking to collaborate on a Chat API or Tech startup projects!<br>🤝 I’m looking for help with Chat API.<br>💬 Ask me about my playlist...<br>⚡ Fun fact Giraffes are 30 times more likely to get hit by lightning than people :)
+🔭 I’m currently working on a Vehicle Project.<br>👯 I want to collaborate on a Chat API or Tech startup projects!<br>🤝 I’m looking for help with Chat API.<br>💬 Ask me about my playlist...<br>⚡ Fun fact: Giraffes are 30 times more likely to get hit by lightning than people. :)
 
 
 ## 🌐 Socials:
