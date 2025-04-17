@@ -11,9 +11,13 @@
 ---
 
 ## 📊 GitHub Stats:
-<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=Umbrellaisnothere&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=Umbrellaisnothere&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=Umbrellaisnothere&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=ffffff&icon_color=ffd700&text_color=e6e6e6&bg_color=00000000" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=Umbrellaisnothere&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=ffffff&icon_color=ffd700&text_color=e6e6e6&bg_color=00000000" />
 
-<img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=Umbrellaisnothere&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Umbrellaisnothere&theme=highcontrast&hide_border=false" />
+</div>
+
+<img align="" width="99.9%" src="https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=Umbrellaisnothere&theme=nord&color=ffffff&point=ffd7003&hide_border=true&line=ffffff&title_color=ffffff&icon_color=ffd700&text_color=e6e6e6&bg_color=00000000" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jus_umbrella) 
